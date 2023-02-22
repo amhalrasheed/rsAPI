@@ -7,8 +7,8 @@ pip install -r requirements.txt
 json format example
 
 {
-    "gba" : 0,
-    "interest" : 1,
-    "university" : 1,
-    "grad" : 1
+    "gba" : 4.6,
+    "interest" : "ذكاء اصطناعي",
+    "university" : "جامعة الملك سعود",
+    "isgrad" : "خريج"
 }
